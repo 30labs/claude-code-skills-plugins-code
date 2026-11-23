@@ -1,0 +1,11 @@
+{
+  "name": "shipkit-marketplace",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "shipkit",
+      "source": "./plugins/shipkit",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shipkit-marketplace",
+  "owner": { "name": "Your Name" },
+  "description": "Pre-deploy checks and release notes.",
+  "plugins": [
+    {
+      "name": "shipkit",
+      "source": "./plugins/shipkit",
+      "description": "Pre-deploy checks and release notes.",
+      "version": "0.1.0"
+    }
+  ]
+}

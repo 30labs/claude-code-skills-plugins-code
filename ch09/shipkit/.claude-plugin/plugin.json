@@ -1,0 +1,7 @@
+{
+  "name": "shipkit",
+  "version": "0.1.0",
+  "description": "Pre-deploy checks and release notes.",
+  "author": { "name": "Your Name" },
+  "license": "MIT"
+}
